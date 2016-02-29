@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonisq02ovidgoog_0009.png"; bbox 0 0 673 1006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 119 276 142">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 119 276 142">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 119 276 142; baseline -0.057 0"><span class='ocrx_word' id='word_1_1' title='bbox 118 124 178 142; x_wconf 62' lang='lat' dir='ltr'>lnmox</span> <span class='ocrx_word' id='word_1_2' title='bbox 189 119 276 138; x_wconf 63' lang='lat' dir='ltr'>mmmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 166 152 239 211">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 166 152 256 246">
+     <span class='ocr_line' id='line_1_2' title="bbox 166 152 239 211; baseline -0.111 37"><span class='ocrx_word' id='word_1_3' title='bbox 166 152 239 211; x_wconf 44' lang='lat' dir='ltr'>‘Q</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 131 214 287 348">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 131 214 287 348">
+     <span class='ocr_line' id='line_1_3' title="bbox 131 214 287 348; baseline 0 658"><span class='ocrx_word' id='word_1_4' title='bbox 131 214 287 348; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 241 370 302 383">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 241 370 302 383">
+     <span class='ocr_line' id='line_1_4' title="bbox 241 370 302 383; baseline 0 623"><span class='ocrx_word' id='word_1_5' title='bbox 241 370 302 383; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 116 370 294 411">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 116 370 294 411">
+     <span class='ocr_line' id='line_1_5' title="bbox 116 370 294 391; baseline -0.051 -2"><span class='ocrx_word' id='word_1_6' title='bbox 116 370 238 391; x_wconf 58' lang='lat' dir='ltr'>numlmwurnx</span> <span class='ocrx_word' id='word_1_7' title='bbox 271 373 294 382; x_wconf 72' lang='grc' dir='ltr'>ιω.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 135 394 278 411; baseline -0.042 0"><span class='ocrx_word' id='word_1_8' title='bbox 135 396 239 411; x_wconf 45' lang='lat' dir='ltr'>Vre-›fumun‹</span> <span class='ocrx_word' id='word_1_9' title='bbox 245 394 278 406; x_wconf 62' lang='lat'>1515</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
